@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/0700_LifeCycle" />
             <option value="$PROJECT_DIR$/0701_ImageSwitcher" />
+            <option value="$PROJECT_DIR$/0705_Game_Animation" />
+            <option value="$PROJECT_DIR$/0706_TextView_setup" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
