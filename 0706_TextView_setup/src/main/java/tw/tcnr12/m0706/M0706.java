@@ -46,7 +46,7 @@ public class M0706 extends AppCompatActivity implements View.OnClickListener {
 //        ---------------------
 
 //        SpannableString sp = new SpannableString(getString(R.string.m0706_t001));
-        SpannableString sp = new SpannableString(getString(R.string.m0706_t001,"I am David"));
+        SpannableString sp = new SpannableString(getString(R.string.m0706_t001,"I am 膨魚雁","雲端班"));
         sp.setSpan( new ForegroundColorSpan(Color.BLUE),0,3, Spannable.SPAN_INCLUSIVE_INCLUSIVE);//前三字變藍色
 
         sp.setSpan( new BackgroundColorSpan(Color.RED),20,26, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);//"有高亮顯示"背景變紅色
